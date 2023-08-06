@@ -46,5 +46,13 @@ To get started with the "Numpy Resources All in One" notebook, simply clone this
 
 ```bash
 git clone https://github.com/SuryaCreatX/numpy-resources-all-in-one.git
+```
 
+## License
+This repository is distributed under the MIT License. Feel free to use, modify, and share this resource in accordance with the license terms.
+
+## Acknowledgments
+- We extend our gratitude to the creators and contributors of Pandas for developing such a powerful and versatile library for data manipulation and analysis. Let's continue to learn and collaborate to make data science accessible to all.
+
+- Ready to dive into the world of Pandas? Join us now! 🌟 Don't forget to ⭐️ this repository to show your support and share it with others! Happy data wrangling and analysis! 🎉
 
